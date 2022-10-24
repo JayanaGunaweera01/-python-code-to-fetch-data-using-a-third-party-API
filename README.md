@@ -1,2 +1,2 @@
-# -python-code-to-fetch-data-using-a-third-party-API
+# This is a python code to fetch data using a third party API
 #python code to fetch  data using a third party API
